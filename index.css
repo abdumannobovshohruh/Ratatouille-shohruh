@@ -1,0 +1,16 @@
+body{
+    background: url(./img/oiu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}/*  body tana */
+li{
+    color: yellow;}
+p{
+    color: yellow;}/* p paragraf degani */
+div{
+    text-align: center;}/*div css da stil bermaguncha ishlamaydi, quti */
+h1{
+    color: green;
+    text-align: center}
+a{
+    color: coral;}/* a ga weight height berilmadi */

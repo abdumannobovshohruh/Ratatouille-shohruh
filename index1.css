@@ -1,0 +1,13 @@
+h1{
+    color:crimson;
+    text-align: center;
+}
+body{
+    background: url(img/nmk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    text-align: center;
+}
+
